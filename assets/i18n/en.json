@@ -1,0 +1,32 @@
+{
+    "translateKeyTest":"English",
+    "home": "Knowledges Storage",
+    "userControl": "User Control",
+    "tableData": "Table Data",
+    "highChartText": "High Chart",
+    "footer":{
+        "information": "2018 - Pham Hoang Duong - Demo Angular v6"
+    },
+    "changeLanguage":"Change Language",
+    "accordion1": "Passing data between 2 components",
+    "accordion2": "Call function in another component",
+    "accordion3": "Accordion 3",
+    "lineChart": "Line Chart",
+    "pieChart":"Pie chart",
+    "barChart": "Bar chart",
+    "dragDrop": "Drag Drop Control",
+    "dragDrop1":"1./ Use Drag-and-Drop operations with no component code",
+    "dragDrop2":"2./ Add handle to restrict draggable zone of component",
+    "dragDrop3":"3./ Restriction Drag-and-Drop operations with drop zones",
+    "dragDrop4":"4./ Transfer custom data via Drag-and-Drop",
+    "dragDrop5":"5./ Use a custom function to determine where dropping is allowed",
+    "dragDrop6":"6./ Shopping basket with Drag-and-Drop",
+    "dragDrop7":"7./ Simple sortable with Drag-and-Drop",
+    "dragDrop8":"8./ Simple sortable with Drag-and-Drop handle",
+    "dragDrop9":"9./ Simple sortable With Drop into recycle bin",
+    "dragDrop10":"10./ Simple sortable With Drop into something, without delete it",
+    "dragDrop11":"11./ Multi list sortable between containers",
+    "dragDrop12":"12./ Simple FormArray sortable with Drag-and-Drop",
+    "reactJs": "React JS",
+    "gulp": "Gulp"
+}

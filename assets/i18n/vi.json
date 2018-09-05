@@ -1,0 +1,32 @@
+{
+    "translateKeyTest":"Vietnammese",
+    "home": "Kho lưu trữ kiến thức",
+    "userControl": "Công cụ",
+    "tableData": "Bảng dữ liệu",
+    "highChartText": "High Chart",
+    "footer":{
+        "information": "2018 - Pham Hoang Duong - Thực hành Angular v6"
+    },
+    "changeLanguage":"Đổi ngôn ngữ",
+    "accordion1": "Chuyền dữ liệu giữa 2 components",
+    "accordion2": "Gọi 1 function từ một component khác",
+    "accordion3": "Accordion 3",
+    "lineChart": "Chart đường thẳng",
+    "pieChart":"Chart tròn",
+    "barChart": "Biểu đồ thanh",
+    "dragDrop": "Kéo thả control",
+    "dragDrop1":"1./ Sử dụng kéo thả mà không sử dụng component code",
+    "dragDrop2":"2./ Thêm xử lý để hạn chế vùng có thể kéo của component",
+    "dragDrop3":"3./ Hạn chế hoạt động kéo và thả với vùng thả",
+    "dragDrop4":"4./ Chuyển dữ liệu tùy chỉnh qua Kéo và thả",
+    "dragDrop5":"5./ Sử dụng một custom function để xác định nơi được kéo thả",
+    "dragDrop6":"6./ Rỏ hàng với Drag-and-Drop",
+    "dragDrop7":"7./ Sắp xếp cơ bản với Drag-and-Drop",
+    "dragDrop8":"8./ Xử lý để hạn chế vùng bám của thành phần có thể sắp xếp.",
+    "dragDrop9":"9./ Ví dụ kéo thả vào recycle-bin",
+    "dragDrop10":"10./ Sắp xếp và kéo mà không xóa",
+    "dragDrop11":"11./ Nhiều danh sách có thể sắp xếp giữa các vùng chứa",
+    "dragDrop12":"12./ FormArray có thể sắp xếp bằng Drag-and-Drop",
+    "reactJs": "React JS",
+    "gulp": "Gulp"
+}
